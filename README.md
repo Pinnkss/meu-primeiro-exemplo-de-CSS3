@@ -1,4 +1,4 @@
-# meu-primeiro-exemplo-de-CSS3<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <style>
